@@ -9,7 +9,6 @@
   - **<a href="http://8ch.net/2b2t" target="_blank">8ch.net/2b2t</a>** - 8Chan /2b2t/ Board
   - **<a href="http://2b2t.boards.net" target="_blank">2b2t.boards.net</a>** - 2b2t Forum
   - **<a href="http://jamesrustles.com" target="_blank">JamesRustles.com</a>** - James_Rustles' 2b2t orientated website
-    - <a href="http://2b2tblog.jamesrustles.com" target="_blank">2b2tblog.jamesrustles.com</a> - James_Rustles' 2b2t Blog
   - **<a href="http://minecraft2b2t.thecomicseries.com" target="_blank">minecraft2b2t.thecomicseries.com</a>** - Comics by TheJudgeHolden (2011-2012)
   - **<a href="http://2b2to.webcomic.ws" target="_blank">2b2to.webcomic.ws</a>** - Comics by TheJudgeHolden (2014)
 - **2b2t Related Sites and Dumps**
